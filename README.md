@@ -2,7 +2,7 @@
 
 Projeto PSI em CakePHP
 
-Importar ** cook_book.SQL** para suporte do projeto
+Importar **cook_book.SQL** para suporte do projeto
 
 - Receitas
 
