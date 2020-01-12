@@ -2,6 +2,8 @@
 
 Projeto PSI em CakePHP
 
+Operações CRUD
+
 Importar **cook_book.SQL** para suporte do projeto
 
 - Receitas
